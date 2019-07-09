@@ -1,6 +1,7 @@
 body {
 	/*background-color: #00b8ff;*/
-	background-color: #00b8ff80;
+	/*background-color: #00b8ff80;*/
+	background-color: #0175a2cc;
 	font-family: 'Patua One', serif;
 	color: rgb(72, 66, 66);
 }
@@ -41,9 +42,55 @@ body {
 	font-family: 'Roboto Slab', serif;
 }
 
-#profile {
+.centered {
+	text-align: center; 
+}
+
+span.first-word {
+	font-size: 1.3em;
+	font-weight: 700;
+}
+
+.image-left {
     width: 7em;
     border-radius: 20px;
     float: left;
     margin-right: 15px;
 }
+
+.icon-left {
+    float: left;
+    font-size: 6em;
+    margin: 10px 20px 0px 10px;
+}
+
+.contact {
+	text-align:center;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.contact-button {
+	padding-left: 1em;
+	padding-right: 1em;
+	color: #f8f9fa;
+	font-size: 3em;
+}
+
+.work-row-1 {
+	margin-bottom: -15px;
+}
+
+.work-1 {
+	font-weight: bold;
+}
+
+.work-2, .work-4 {
+	text-align: right;
+}
+
+.work-3 {
+	font-style: italic;
+}
+
+
