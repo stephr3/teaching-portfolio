@@ -1,6 +1,4 @@
 body {
-	/*background-color: #00b8ff;*/
-	/*background-color: #00b8ff80;*/
 	background-color: #0175a2cc;
 	font-family: 'Patua One', serif;
 	color: rgb(72, 66, 66);
@@ -8,6 +6,10 @@ body {
 
 h2 {
    padding-bottom: 10px;
+}
+
+li {
+	font-family: 'Arial', sans-serif;
 }
 
 .header {
