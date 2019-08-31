@@ -89,10 +89,7 @@ span.first-word {
 
 .work-1 {
 	font-weight: bold;
-}
-
-.work-2, .work-4 {
-	text-align: right;
+	font-size: 1.2em;
 }
 
 .work-3 {
