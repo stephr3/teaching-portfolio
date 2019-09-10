@@ -64,6 +64,13 @@ span.first-word {
     margin-right: 15px;
 }
 
+.image-small {
+	width: 10em;
+	margin: auto;
+	display: block;
+	margin-bottom: 15px;
+}
+
 .icon-left {
     float: left;
     font-size: 6em;
